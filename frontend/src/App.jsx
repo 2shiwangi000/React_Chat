@@ -12,7 +12,7 @@ function App() {
       <Route element={<UserLogin/>} path='/'/>
       <Route element={<ChatContainer/>} path='/chatarea'/>
     </Routes>
-    </BrowserRouter>
+    </BrowserRouter> 
   )
 }
 
